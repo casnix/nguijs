@@ -1,0 +1,18 @@
+{
+  "name": "ngui.server",
+  "version": "1.0.0",
+  "description": "NGUI Server",
+  "main": "ngui.server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./ngui.server.js"
+  },
+  "keywords": [
+    "ngui"
+  ],
+  "author": "Matt Rienzo | Casnix | lum1n0U5panT3r",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "websocket": "^1.0.26"
+  }
+}
